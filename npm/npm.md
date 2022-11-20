@@ -4,3 +4,5 @@
 会自动地去你 ./node_modules/.bin 这个路径中去找
 
 ## 说一下npx
+
+## rollup
